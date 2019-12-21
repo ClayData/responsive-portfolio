@@ -6,7 +6,6 @@ body{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #1f1b1b;
     position: relative;
-    margin: 0 auto;
     text-align: center;
     background-color: lightgray;
     width: 960px;
@@ -61,6 +60,11 @@ form{
     border: #475b5a 2px solid;
 }
 
+footer{
+    text-align: center;
+    height: 40px;
+    background-color: #313e50;
+}
 
 
 
