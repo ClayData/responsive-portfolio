@@ -50,20 +50,12 @@ form{
     margin-left: 50px;
 }
 
-.navbar-custom{
-    color: white;
-    background-color: #313e50;
-    border-bottom: #475b5a 5px solid;
-}
-
 .index-photo{
     border: #475b5a 2px solid;
 }
 
 footer{
     text-align: center;
-    height: 40px;
-    background-color: #313e50;
 }
 
 
