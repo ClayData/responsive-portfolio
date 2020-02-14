@@ -58,11 +58,14 @@ form{
 
 footer{
     text-align: center;
+   
 }
 
 .navbar{
     color: white;
 }
 
-
+.card{
+    height: 400px;
+}
 
